@@ -10,7 +10,7 @@ import CMS from '../cms'
 
 import styles from '../styles/Home.module.css'
 
-import ocean_ZetongLi from '../public/zetong-li-V9x4M_y5Pqg-unsplash(og-size).jpg'
+import onweb3_backtime from '../public/OnWeb3-Background-OW3.energy.pdf.jpg'
 
 const Homepage = () =>
 {
@@ -35,7 +35,7 @@ const Homepage = () =>
       <Image
         className="bg"
         id="__bg"
-        src={ocean_ZetongLi}
+        src={onweb3_backtime}
         alt="Background HNS Resolver"
         layout="fill"
         objectFit="cover"
